@@ -1,0 +1,14 @@
+# Cursor secrets
+.cursor/mcp.json
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependencies (not used, for safety)
+node_modules/
+
+# Environment / secrets
+.env
+.env.*
